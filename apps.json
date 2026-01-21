@@ -1,0 +1,14 @@
+{
+  "name": "سول بلس | Soul Plus",
+  "identifier": "com.soulplus.store",
+  "apps": [
+    {
+      "name": "إنستقرام بلس",
+      "bundleIdentifier": "com.burbn.instagram.soul",
+      "version": "407.0.0",
+      "downloadURL": "https://srv-store6.gofile.io/download/direct/678a2f07-7756-4290-a43b-63251f286884/Instagram_407.0.0.ipa",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png",
+      "description": "تطبيق إنستقرام بلس | مرفوع بواسطة سول بلس"
+    }
+  ]
+}
