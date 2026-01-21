@@ -1,0 +1,23 @@
+{
+  "name": "سول بلس | Soul Plus",
+  "identifier": "com.soulplus.official",
+  "icon": "https://img.icons8.com/clouds/512/cloud-lighting.png",
+  "apps": [
+    {
+      "name": "إدارة المتجر (للمالك فقط)",
+      "bundleIdentifier": "com.soulplus.admin",
+      "version": "لوحة التحكم",
+      "downloadURL": "https://github.com/USERNAME/REPO_NAME/edit/main/soul.json",
+      "icon": "https://img.icons8.com/fluency/512/settings.png",
+      "description": "اضغط هنا للدخول وتعديل تطبيقاتك وإضافة ملفات IPA جديدة مباشرة من GitHub"
+    },
+    {
+      "name": "إنستقرام بلس",
+      "bundleIdentifier": "com.burbn.instagram.soul",
+      "version": "407.0.0",
+      "downloadURL": "https://srv-store6.gofile.io/download/direct/678a2f07-7756-4290-a43b-63251f286884/Instagram_407.0.0.ipa",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png",
+      "description": "تطبيق إنستقرام بلس"
+    }
+  ]
+}
